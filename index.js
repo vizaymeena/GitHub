@@ -8,7 +8,7 @@
 const age = 24
 
 function greet(){
-   return "hello"
+   return "hello vijayy"
 }
 
 console.log(greet())
